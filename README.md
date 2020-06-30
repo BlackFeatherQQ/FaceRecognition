@@ -27,7 +27,7 @@ The third step is to run detect(setOPT()),In the setOPT() method, you can set pa
 
 ## weights:
 ### last.pt
-Get it with yolov5 training.<br>
+[Get it with yolov5 training.](https://github.com/ultralytics/yolov5)<br>
 The dataset uses celeba.<br>
 You can replace it with your own weight
 ### 20180402-114759
