@@ -328,7 +328,7 @@ def setOPT():
 
     parser = argparse.ArgumentParser()
     parser.add_argument('--weights', type=str, default='D:/py/FaceRecognition/weights/last.pt', help='model.pt path')
-    parser.add_argument('--source', type=str, default='C:/Users/lieweiai/Desktop/82806987-1-192.mp4', help='source')  # file/folder, 0 for webcam
+    parser.add_argument('--source', type=str, default='D:/py/FaceRecognition/inference/images', help='source')  # file/folder, 0 for webcam
     parser.add_argument('--output', type=str, default='../inference/output', help='output folder')  # output folder
     parser.add_argument('--img-size', type=int, default=640, help='inference size (pixels)')
     parser.add_argument('--conf-thres', type=float, default=0.3, help='object confidence threshold')
