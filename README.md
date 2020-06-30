@@ -18,7 +18,7 @@ $ pip install -U -r requirements.txt
 
 ### *first:
 Making database face data,The size of each picture is (160,160),One folder per person<br>
-<img src="https://github.com/BlackFeatherQQ/FaceRecognition/blob/master/yolov5_ultralytics/1.PNG" width="500">  
+<img src="https://github.com/BlackFeatherQQ/FaceRecognition/blob/master/yolov5_ultralytics/1.JPG" width="500">  
 ### *then:
 Open main function in recognitiuon/test.py,you can see face2database\ClassifyTrainSVC\detect()<br>
 The first step is to run face2database<br>
