@@ -44,6 +44,6 @@ $ python recognition/test.py --source file.jpg  # image <br>
 
 Download [celeba](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) and [yolov5](https://github.com/ultralytics/yolov5), install [Apex](https://github.com/NVIDIA/apex) and run command below. I used yolov5s for training,you can use other weights to train your own model.
 
-## Reproduce Our Environment
-
-To access an up-to-date working environment (with all dependencies including CUDA/CUDNN, Python and PyTorch preinstalled)
+## quote
+yolov5:(https://github.com/ultralytics/yolov5)<br>
+blog:(https://blog.csdn.net/ninesky110/article/details/84844307)
