@@ -16,8 +16,10 @@ $ pip install -U -r requirements.txt
 
 ## dataset
 
-*first:Making database face data,The size of each picture is (160,160),One folder per person
-*then:Open main function in recognitiuon/test.py,you can see face2database\ClassifyTrainSVC\detect()<br>
+### *first:
+Making database face data,The size of each picture is (160,160),One folder per person<br>
+### *then:
+Open main function in recognitiuon/test.py,you can see face2database\ClassifyTrainSVC\detect()<br>
 The first step is to run face2database<br>
 The second step is to run ClassifyTrainSVC<br>
 After running, Annotate the two steps above<br>
