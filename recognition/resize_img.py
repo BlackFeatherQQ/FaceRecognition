@@ -8,6 +8,7 @@ from PIL import Image
 import os
 
 
+
 def pad_image(image, target_size):
     iw, ih = image.size  # 原始图像的尺寸
     w, h = target_size  # 目标图像的尺寸
