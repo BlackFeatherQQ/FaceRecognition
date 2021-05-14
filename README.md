@@ -1,5 +1,8 @@
 # Using pytorch,yolocv5+facenet+svm
 
+## Tutorial on CSDN:
+https://blog.csdn.net/qq_41334243/article/details/107425492
+
 ## Requirements
 
 Python 3.7 or later with all `requirements.txt` dependencies installed, including `torch >= 1.5`. To install run:
